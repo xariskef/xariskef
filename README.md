@@ -14,8 +14,10 @@ I work under the name **[Cikefallinos](https://cikefallinos.com)**.
 my clients' sites: GDPR-ready cookie consent, SEO, forms, bookings, newsletter, Greek/English, 2FA and bot protection
 on the admin login.
 
-**WordPress plugins** (source available for review)
+**WordPress** (source available for review)
 
+- **[Kefallinos Hybrid](https://github.com/xariskef/cik-hybrid-theme)** — a lean theme: server-rendered PHP components,
+  Tailwind 4 via Vite, optional React islands and dynamic blocks, tested with PHPUnit, Vitest and Playwright in CI.
 - **[Prize Wheel Kiosk](https://github.com/xariskef/cik-prize-wheel)** — touchscreen registration and prize wheel for
   trade shows: REST API, a spin engine that stays correct under concurrent requests, vouchers and redemption, CSV export,
   WP-CLI commands and tests.
