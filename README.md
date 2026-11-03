@@ -31,4 +31,5 @@ Medusa · PostgreSQL · MySQL · Tailwind CSS · Docker
 
 Most of my work lives in private client repositories.
 
-**Contact:** [info@cikefallinos.com](mailto:info@cikefallinos.com) · [cikefallinos.com](https://cikefallinos.com)
+**Contact:** [info@cikefallinos.com](mailto:info@cikefallinos.com) · [cikefallinos.com](https://cikefallinos.com) ·
+[LinkedIn](https://www.linkedin.com/in/cikefallinos/)
