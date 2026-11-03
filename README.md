@@ -1,20 +1,12 @@
 ### Hi, I'm Charris 👋
 
-Full-stack web developer based in Athens, Greece, with 10+ years of building websites, e-shops and web apps for businesses.
-I work under the name **[Cikefallinos](https://cikefallinos.com)**.
+Full-stack web developer in Athens, Greece, with 10+ years of building websites, e-shops and web apps — mostly with
+**PHP** (Laravel, WordPress, WooCommerce) and **TypeScript** (React, Next.js, Node.js).
+I also work independently as **[Cikefallinos](https://cikefallinos.com)**.
 
-**What I build**
+I care about clean architecture, secure defaults, accessible front ends and tests that run in CI.
 
-- **Websites** that the business owner can update on their own — texts, photos, opening hours — from a simple admin panel.
-- **E-shops** with [Medusa](https://medusajs.com) for commerce and integrations with Greek and international services.
-- **Web apps** and custom back-office tools.
-- **WordPress & WooCommerce** and **Magento** projects.
-
-**Cikefallinos CMS** — my own CMS, built on [Payload](https://payloadcms.com) and Next.js. It is the shared base of
-my clients' sites: GDPR-ready cookie consent, SEO, forms, bookings, newsletter, Greek/English, 2FA and bot protection
-on the admin login.
-
-**WordPress** (source available for review)
+**WordPress** — source available for review
 
 - **[Kefallinos Hybrid](https://github.com/xariskef/cik-hybrid-theme)** — a lean theme: server-rendered PHP components,
   Tailwind 4 via Vite, optional React islands and dynamic blocks, tested with PHPUnit, Vitest and Playwright in CI.
@@ -24,17 +16,19 @@ on the admin login.
 - **[Smart Search](https://github.com/xariskef/cik-smart-search)** — predictive search for posts, pages and WooCommerce
   products, with voice input, suggested and popular keywords and privacy-minded search analytics.
 
-**Tech I use**
+**Laravel** — corporate website and CMS for a financial institution (agency work, private): Laravel 12, Filament,
+Inertia + React, a seven-role permission model enforced by policies, audit log, Content Security Policy and sanitised
+rich text, in three languages.
 
-`TypeScript` · `Next.js` · `React` · `Node.js` · `Payload CMS` · `Medusa` · `PostgreSQL` · `Tailwind CSS` ·
-`PHP` · `Laravel` · `WordPress / WooCommerce` · `Magento` · `Docker`
+**My own platform** — Cikefallinos CMS, built on Payload and Next.js: the shared base of my clients' sites (SEO,
+GDPR-ready consent, forms, bookings, 2FA), shipped as versioned packages with CI.
+Live: [cikefallinos.com](https://cikefallinos.com) · [bellahair.gr](https://bellahair.gr) ·
+[demodebites.gr](https://demodebites.gr) · [anastrak.gr](https://anastrak.gr) — full portfolio at
+**[cikefallinos.com/work](https://cikefallinos.com/work)**
 
-**Recent work** — see the full portfolio at **[cikefallinos.com/work](https://cikefallinos.com/work)**
+**Tech:** PHP · Laravel · WordPress / WooCommerce · Magento · TypeScript · React · Next.js · Node.js · Payload ·
+Medusa · PostgreSQL · MySQL · Tailwind CSS · Docker
 
-- [demodebites.gr](https://demodebites.gr) — restaurant & café
-- [anastrak.gr](https://anastrak.gr) — technical company
-- [bellahair.gr](https://bellahair.gr) — hair salon
-
-Most of my code lives in private repositories (client work).
+Most of my work lives in private client repositories.
 
 **Contact:** [info@cikefallinos.com](mailto:info@cikefallinos.com) · [cikefallinos.com](https://cikefallinos.com)
